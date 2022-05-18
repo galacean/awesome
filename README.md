@@ -1,5 +1,5 @@
-# <a>awesome</a>
-<a>Awesome work from our community</a>
+# awesome
+Awesome work from our community
 
 <br>
 <br>
